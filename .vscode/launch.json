@@ -7,7 +7,7 @@
 
         {
             "name": "Debug Android",
-            "program": "${workspaceRoot}/App.js",
+            "program": "${workspaceRoot}/.vscode/launchReactNative.js",
             "type": "reactnative",
             "request": "launch",
             "platform": "android",
@@ -16,7 +16,7 @@
         },
         {
             "name": "Debug iOS",
-            "program": "${workspaceRoot}/App.js",
+            "program": "${workspaceRoot}/.vscode/launchReactNative.js",
             "type": "reactnative",
             "request": "launch",
             "platform": "ios",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Attach to packager",
-            "program": "${workspaceRoot}/App.js",
+            "program": "${workspaceRoot}/.vscode/launchReactNative.js",
             "type": "reactnative",
             "request": "attach",
             "sourceMaps": true,
@@ -33,7 +33,7 @@
         },
         {
             "name": "Debug in Exponent",
-            "program": "${workspaceRoot}/App.js",
+            "program": "${workspaceRoot}/.vscode/launchReactNative.js",
             "type": "reactnative",
             "request": "launch",
             "platform": "exponent",
